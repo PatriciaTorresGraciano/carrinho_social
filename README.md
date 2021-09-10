@@ -43,22 +43,22 @@
 <h4>💻 Cotribuidores: </h4>
   <ul>
     <li>
-      <a href="#">Everton</a>
+      <a href="https://github.com/FreitasOliver">Everton</a>
     </li>
     <li>
-      <a href="#">Ítalo</a>
+      <a href="https://github.com/heiitalo">Ítalo</a>
     </li>
     <li>
-      <a href="#">Letícia</a>
+      <a href="https://github.com/leticialsouza">Letícia</a>
     </li>
       <li>
         <a href="https://github.com/PatriciaTorresGraciano">Patrícia</a>
       </li>
       <li>
-        <a href="#">Priscila</a>
+        <a href="https://github.com/davansep">Priscila</a>
       </li>
       <li>
-        <a href="#">Ruan</a>
+        <a href="https://github.com/RuanSDias">Ruan</a>
      </li>
   </ul>
  
