@@ -2,7 +2,8 @@
 <img src="https://user-images.githubusercontent.com/72994902/132438140-65b86dc6-fc16-42a6-97c1-8d26130c9452.png" width="300px">
 </div>
 
-<h3  align="center">Carrinho Social é um projeto desenvolvido para Generation Brasil </h3>
+<h3  align="center">Projeto de conclusão do 1º Módulo da Generation Brasil </h3>
+<p align="center"> O Carrinho Social tem como objetivo a doação de produto e recebimento por famílias que precisem...</p>
 <p align="center"> Nosso projeto é relacionado aos seguintes Objetivos de Desenvolvimento Sustentáveis da ONU: </p>
 
 <div align="center">
